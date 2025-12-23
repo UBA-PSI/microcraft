@@ -59,8 +59,6 @@ Das Projekt demonstriert drei OOP-Konzepte:
 3. **Inversion of Control** (25min): `EventBus` + Handler
    - Dateien: `simple/live/events.py`, `simple/live/effects_festive.py`
 
-Siehe [LIVECODING_SCRIPT.md](LIVECODING_SCRIPT.md) für detaillierte Anweisungen.
-
 ## Kommandozeilen-Optionen
 
 ```bash
@@ -117,7 +115,3 @@ Sprites generiert mit **Google Imagen 3** (Nano Banana Pro)
 ### Audio
 - **Musik**: Scott Buckley - CC-BY 4.0 - https://www.scottbuckley.com.au
 - **Sound-Effekte**: Shapeforms Audio - https://shapeforms.itch.io/shapeforms-audio-free-sfx
-
-## Dokumentation
-
-Siehe [spec.md](spec.md) für die vollständige Spezifikation.
