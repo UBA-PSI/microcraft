@@ -1,0 +1,20 @@
+{
+    "Worker": {
+        "hp": 40,
+        "speed": 2.5,
+        "vision": 5,
+        "cost": 50,
+        "build_time": 3.0,
+        "carry_capacity": 8
+    },
+    "Soldier": {
+        "hp": 60,
+        "speed": 2.0,
+        "vision": 6,
+        "cost": 75,
+        "build_time": 4.0,
+        "damage": 8,
+        "range": 4,
+        "cooldown": 1.0
+    }
+}

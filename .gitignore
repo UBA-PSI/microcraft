@@ -1,0 +1,19 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+*.egg-info/
+.pytest_cache/
+
+# Debug logs
+ai_debug.log
+
+# Local settings
+.claude/settings.local.json
+
+# Sound effects (not redistributable - see assets/sounds/sfx/README.md)
+assets/sounds/sfx/*.wav
+
+# Internal teaching materials (not for distribution)
+material/

@@ -1,0 +1,26 @@
+{
+    "name": "Classic 1v1",
+    "description": "Standard two-player map with symmetric mineral patches",
+    "starting_minerals": 50,
+    "starting_workers": 3,
+    "teams": {
+        "1": {
+            "name": "Player",
+            "color": "#3498db",
+            "base_pos": [5, 5]
+        },
+        "2": {
+            "name": "AI",
+            "color": "#e74c3c",
+            "base_pos": [25, 25]
+        }
+    },
+    "mineral_patches": [
+        {"pos": [11, 1], "amount": 500},
+        {"pos": [11, 11], "amount": 500},
+        {"pos": [1, 11], "amount": 500},
+        {"pos": [19, 29], "amount": 500},
+        {"pos": [19, 19], "amount": 500},
+        {"pos": [29, 19], "amount": 500}
+    ]
+}

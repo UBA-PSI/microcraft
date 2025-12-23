@@ -1,0 +1,18 @@
+{
+    "Base": {
+        "hp": 500,
+        "cost": 0,
+        "build_time": 0,
+        "vision": 8,
+        "size": [3, 3],
+        "produces": ["Worker"]
+    },
+    "Barracks": {
+        "hp": 300,
+        "cost": 150,
+        "build_time": 5.0,
+        "vision": 6,
+        "size": [2, 2],
+        "produces": ["Soldier"]
+    }
+}
